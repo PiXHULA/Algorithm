@@ -1,5 +1,5 @@
 # Algorithms
 
-[ x ] Queue
+[x] Queue
 
 
